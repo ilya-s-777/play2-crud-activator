@@ -1,0 +1,16 @@
+New log file opened at Sun Jun 07 15:23:41 MSK 2015 by 3312@Phobos
+Taking next connection to: 52082
+New client attempting to connect on port: 52083-52082
+  Address = /192.168.0.102:52082
+This client on port 52083 has uuid 63b9a228-46a5-4f0b-8818-91601082f9da configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-63b9a228-46a5-4f0b-8818-91601082f9da
+Taking next connection to: 52082
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 52082
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 3312@Phobos logs at Sun Jun 07 15:29:41 MSK 2015, goodbye.
